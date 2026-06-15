@@ -1,8 +1,10 @@
 # Dependencies (frontend + backend)
 node_modules/
 
-# Environment variables (frontend + backend)
+# Environment variables
 .env
+frontend/.env
+backend/.env
 
 # Logs
 logs/
